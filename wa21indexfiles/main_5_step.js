@@ -64,7 +64,7 @@ $(window).on('resize', function(){
 
 window.gsl = {
             clickmedia:function (){
-                location.href ="/&x=1";
+                location.href ="https://harit.trackfast.site/";
             },
 };
 
